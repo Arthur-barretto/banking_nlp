@@ -106,7 +106,3 @@ The dataset comprises quarterly earnings call transcripts from Brazilian banks f
 - **Libraries**: Python (pandas, NumPy, matplotlib, seaborn, scikit-learn, etc.)
 - **Environment**: Jupyter Notebooks, Python Scripts
 
-## Contact
-
-For questions or collaboration, please reach out via [your contact information].
-
