@@ -37,8 +37,8 @@ Each model evaluates the outputs of the other models by reviewing their topic an
 - Compliance with requested output format.
 
 **Scripts:**
-- `LLM_as_a_judge_llama_contextualized.py`: Llama3 evaluates Qwen2 and ChatGPT.
-- `LLM_as_a_judge_qwen_contextualized.py`: Qwen2 evaluates Llama3 and ChatGPT.
+- `LLM_as_a_judge_llama.py`: Llama3 evaluates Qwen2 and ChatGPT.
+- `LLM_as_a_judge_qwen.py`: Qwen2 evaluates Llama3 and ChatGPT.
 
 ---
 
